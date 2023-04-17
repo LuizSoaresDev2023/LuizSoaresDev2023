@@ -17,7 +17,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizSoaresDev2023&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <!--
 <div>
   <a href="https://github.com/LuizSoaresDev2023/PerfilGithub.git">
