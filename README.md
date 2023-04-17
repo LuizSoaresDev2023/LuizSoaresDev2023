@@ -12,6 +12,12 @@
 - 🍵 I'm currently studying Systems Analysis and Development..
 - 💭 I want to be a successful developer in the very near future...
 
+
+[![Luiz Soares's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizSoaresDev2023&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizSoaresDev2023&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 <div>
   <a href="https://github.com/LuizSoaresDev2023/PerfilGithub.git">
